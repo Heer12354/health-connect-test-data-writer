@@ -4,6 +4,13 @@
 
 > **TL;DR** — Open the app → enter 20,000 → tap one button → open Lenskart → claim your free frame. That's it. 🎉
 
+## 🆕 What's New
+
+- Rebranded as **Health Connect Test Data Writer**, with the application ID `com.heer12354.hctestdata` and a placeholder app icon.
+- Each written step record now has a client record ID beginning with `hc-testdata-` and uses `RECORDING_METHOD_MANUAL_ENTRY`.
+- The app displays a persistent **Synthetic test data** label.
+- Documentation now focuses on building and using the app to test Health Connect integrations.
+
 ---
 
 ## 🕶️ What is Lenskart Run for Frame?
