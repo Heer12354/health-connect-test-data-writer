@@ -1,0 +1,17 @@
+# Gradle
+.gradle/
+**/build/
+.cxx/
+.kotlin/
+captures/
+*.apk
+*.aab
+*.hprof
+local.properties
+
+# IDE
+.idea/
+*.iml
+# OS
+.DS_Store
+Thumbs.db
