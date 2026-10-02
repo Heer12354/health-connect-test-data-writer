@@ -98,6 +98,10 @@ The app requests the following Health Connect permissions:
 
 Permissions are granted through Health Connect and can be reviewed or revoked in its settings.
 
+## 🔎 Search Terms
+
+Health Connect test data writer · Android Health Connect testing · synthetic step records · Health Connect step data · AndroidX Health Connect Client · Health Connect permissions testing · Kotlin Android developer tool · fitness app integration testing · step counter test data
+
 ## ⚠️ Disclaimer
 
 For testing on your own device only. Records created by this app are synthetic test data.
