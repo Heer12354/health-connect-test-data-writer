@@ -10,7 +10,7 @@
     <ImageView
         android:layout_width="96dp"
         android:layout_height="96dp"
-        android:src="@drawable/ic_placeholder_logo"
+        android:src="@drawable/ic_app_logo"
         android:contentDescription="Health Connect Test Data Writer placeholder logo"
         android:scaleType="centerCrop"
         android:layout_marginBottom="16dp" />
