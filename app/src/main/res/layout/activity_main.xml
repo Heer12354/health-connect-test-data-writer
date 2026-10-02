@@ -18,18 +18,9 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Health Connect Test Data Writer"
-        android:textSize="24sp"
+        android:text="Step Writer"
+        android:textSize="32sp"
         android:textColor="#FFFFFF"
-        android:textStyle="bold"
-        android:layout_marginBottom="8dp" />
-
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Synthetic test data"
-        android:textSize="14sp"
-        android:textColor="#80CBC4"
         android:textStyle="bold"
         android:layout_marginBottom="8dp" />
 
@@ -39,7 +30,16 @@
         android:text="Write steps directly to Health Connect"
         android:textSize="14sp"
         android:textColor="#AAAAAA"
-        android:layout_marginBottom="32dp" />
+        android:layout_marginBottom="8dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Synthetic test data"
+        android:textSize="14sp"
+        android:textColor="#80CBC4"
+        android:textStyle="bold"
+        android:layout_marginBottom="24dp" />
 
     <EditText
         android:id="@+id/editStepCount"
